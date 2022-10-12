@@ -1,9 +1,10 @@
 import java.util.Scanner;
 
 //testing version control
+
 public class Arrrays {
 
-    private static final int MAX_ALLOWED_ATTEMPTS = 3;
+    private static final int MAX_ALLOWED_ATTEMPTS = 3; // new comment
 
     public static void main(String[] args) {
         int attempts = 1;
