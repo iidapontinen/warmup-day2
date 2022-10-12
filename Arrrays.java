@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Arrrays {
 
-    private static final int MAX_ALLOWED_ATTEMPTS = 3; // new comment
+    private static final int MAX_ALLOWED_ATTEMPTS = 3;
 
     public static void main(String[] args) {
         int attempts = 1;
